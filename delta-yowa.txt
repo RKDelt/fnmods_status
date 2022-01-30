@@ -2,9 +2,12 @@
   "records": [
     {
       "version": "WHATSAPP STATUS",
-      "code": 38,
+      "code": 40,
       "url": "https://bit.ly/DELTA392",
       "changelog": "- Bubble and IOSV2 Home UI - Mass Message - Mark as Opened View Once - Search for Hidden and Archive Chat - Fix Image Resolution"
     }
   ]
 }
+
+
+ aqui cmabio la bersion code, para que delta detecte que ay una actualización disponible, ya que el code de delta y este no coinciden pues arroja el resultado, pero si ambos coinciden pues no notifica,
