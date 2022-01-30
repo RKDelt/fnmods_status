@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "version": "WHATSAPP STATUS",
+      "code": 38,
+      "url": "https://bit.ly/DELTA392",
+      "changelog": "- Bubble and IOSV2 Home UI - Mass Message - Mark as Opened View Once - Search for Hidden and Archive Chat - Fix Image Resolution"
+    }
+  ]
+}
